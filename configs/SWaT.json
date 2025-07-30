@@ -1,0 +1,9 @@
+{
+  "hidden_function": 256,
+  "hidden_function_layers": 3,
+  "output_channels": 256,
+  "time_head_num": 4,
+  "spatial_head_num": 8,
+  "lambda_derivative_recon": 0.2,
+  "if_tanh": true
+}
